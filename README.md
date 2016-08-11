@@ -12,6 +12,8 @@ You must also npm install all of the dependencies listed below. Then you should 
 
 ## Dependencies
 All dependencies should be updated to the latest version:
+node
+electron
 jquery
 fs
 http
